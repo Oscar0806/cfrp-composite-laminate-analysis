@@ -9,7 +9,7 @@ Lamination Theory and FEA for aerospace structures.
 ## Material: Hexcel IM7/8552
 | eLamX2 Field | Value |
 |-------------|-------|
-| E|| | 171,000 MPa |
+| E || | 171,000 MPa |
 | E_perp | 9,080 MPa |
 | G||_perp | 5,290 MPa |
 | v||_perp | 0.32 |
@@ -26,5 +26,4 @@ Lamination Theory and FEA for aerospace structures.
 - eLamX2 (TU Dresden), Python + NumPy, FreeCAD FEM
  
 ## Author
-**Oscar Vincent Dbritto** | M.Sc. Digitalization & Automation
-PFH Stade | [LinkedIn](linkedin.com/in/oscar-dbritto)
+**Oscar Vincent Dbritto** | M.Sc. Digitalization & Automation | [LinkedIn](linkedin.com/in/oscar-dbritto)
