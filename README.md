@@ -9,10 +9,10 @@ Lamination Theory and FEA for aerospace structures.
 ## Material: Hexcel IM7/8552
 | eLamX2 Field | Value |
 |-------------|-------|
-| E | 171,000 MPa |
+| E U+2225 | 171,000 MPa |
 | E_perp | 9,080 MPa |
-| G||_perp | 5,290 MPa |
-| v||_perp | 0.32 |
+| G∥_perp | 5,290 MPa |
+| v∥_perp | 0.32 |
 | Ply thickness | 0.131 mm |
  
 ## Layups
