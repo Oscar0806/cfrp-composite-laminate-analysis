@@ -23,7 +23,7 @@ Lamination Theory and FEA for aerospace structures.
 | Tailored | [0_2/pm45/0]s | VTP skins |
  
 ## Tools (Free)
-- eLamX2 (TU Dresden), Python + NumPy, FreeCAD FEM
+- eLamX (TU Dresden), Python + NumPy, FreeCAD FEM
  
 ## Author
-**Oscar Vincent Dbritto** | M.Sc. Digitalization & Automation | [Portfolio](https://oscardbritto.framer.website/)
+**Oscar Vincent Dbritto** | M.Sc. Digitalization & Automation | [Portfolio](https://oscardbritto.framer.website/) | [Linkedin]([linkedin.com/in/oscar-dbritto](https://www.linkedin.com/in/oscar-dbritto/)
