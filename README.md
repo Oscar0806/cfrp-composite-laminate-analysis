@@ -20,7 +20,7 @@ Lamination Theory and FEA for aerospace structures.
 |-------|----------|-------------|
 | Cross-Ply | [0/90]s | Floor panels |
 | Quasi-Isotropic | [0/+45/-45/90]s | A350 fuselage |
-| Tailored | [0_2/pm45/0]s | VTP skins |
+| Tailored | [0₂/±45/0]s | VTP skins |
  
 ## Tools (Free)
 - eLamX (TU Dresden), Python + NumPy, FreeCAD FEM
