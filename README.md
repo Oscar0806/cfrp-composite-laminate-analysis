@@ -6,10 +6,8 @@
 Three CFRP layup configurations analyzed using Classical
 Lamination Theory and FEA for aerospace structures.
 
-**FEA Displacement** 
 ![FEA Displacement](fea_displacement.png)
 
-**FEA Vonmises**
 ![FEA Vonmises](fea_vonmises.png)
 
 ## Material: Hexcel IM7/8552
