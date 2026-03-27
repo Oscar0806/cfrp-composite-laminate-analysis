@@ -26,7 +26,7 @@ Lamination Theory and FEA for aerospace structures.
 | Quasi-Isotropic | [0/+45/-45/90]s | A350 fuselage |
 | Tailored | [0₂/±45/0]s | VTP skins |
  
-## Tools (Free)
+## Tools
 - eLamX (TU Dresden), Python + NumPy, FreeCAD FEM
  
 ## Author
